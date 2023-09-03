@@ -13,6 +13,8 @@
 - Use SWD to debug the download port
 - Can support Arduino, micropython, circuitpython
 
-![1](images\1.jpg)
+![1](images/1.jpg)
 
-![2](images\2.jpg)
+![2](images/2.jpg)
+
+![3](images/3.png)

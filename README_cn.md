@@ -12,6 +12,8 @@
 - 使用SWD调试下载口
 - 可以支持Arduino、micropython、circuitpython
 
-![1](images\1.jpg)
+![1](images/1.jpg)
 
-![2](images\2.jpg)
+![2](images/2.jpg)
+
+![3](images/3.png)
